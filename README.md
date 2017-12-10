@@ -1,2 +1,6 @@
 # hello-world
-omg
+
+Hi Humans!
+
+OMG OMG OMG THIS IS COOL
+OMG OMG OMG WHAT???
